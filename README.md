@@ -1,5 +1,4 @@
 # Árvores Digitais
-Árvores Digitais
 
 Visão Geral
 Um grupo de traficantes tem passado mensagens secretas entre eles por meio
