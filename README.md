@@ -1,7 +1,7 @@
 # Árvores Digitais
-##Árvores Digitais
 
-Visão Geral
+
+### Visão Geral
 Um grupo de traficantes tem passado mensagens secretas entre eles por meio
 de um código antigo a que chamaremos código XRP. A razão para isso, é que o
 código praticamente já não é utilizado e a maioria das pessoas que o conheciam
